@@ -6,6 +6,5 @@ new
 cherrypic
 `hello
 gm
-hi
 new update
 i am updatinggm
